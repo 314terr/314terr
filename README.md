@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @314terr
 - 👀 I’m interested in backend development and game development
-- 🌱 I’m currently learning Pygame
+- 🌱 I’m currently learning Web scrapping in python
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me /
   
